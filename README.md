@@ -8,7 +8,7 @@
 
 * [Mbed CLI](https://docs.mbed.com/docs/mbed-os-handbook/en/latest/dev_tools/cli/#installing-mbed-cli) - Download and install mbed CLI.
 
-## Step 2: Import InterruptIn project
+## Step 2: Import AnalogIn project
 
 Import AnalogOut-Example project from GitHub.
 
